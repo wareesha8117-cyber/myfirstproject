@@ -1,5 +1,1 @@
 *.log
-# Ignore all log files
-
-images/
-logs/
